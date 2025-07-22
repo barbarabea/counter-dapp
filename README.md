@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Contador Descentralizado
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Este projeto foi desenvolvido como **trabalho final da disciplina Curso de Desenvolvimento Blockchain & Web3** do **Instituto Federal de Brasília (IFB)**. O objetivo é criar um DApp simples que interage com um contrato inteligente na blockchain, utilizando tecnologias como **Solidity**, **Hardhat**, **React**, **Ethers.js** e **TypeScript**. 
 
-Try running some of the following tasks:
+O tutorial utilizado para subir a aplicação está disponível em [claulis](https://github.com/claulis/blockchain/blob/main/web3/ethers.js/README.md), GitHub do professor que ministrou a disciplina, Claudio Uilisse. 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
